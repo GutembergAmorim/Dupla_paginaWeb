@@ -94,3 +94,32 @@ button:hover{
     background-color: black;
     color: white;
 }
+
+
+.seg-corpo{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    text-align: left;
+    font-size: 26px;
+    color: #030303;
+    
+}
+
+.corpo-key{
+    padding: 34px;
+    font-family: 'Montserrat',Arial,sans-serif;
+    font-size: 30px;
+    background-position: center;
+    
+}
+
+#coming{
+    color: rgb(135, 145, 153)
+}
+
+.key{
+    font-size: 60px;
+}
