@@ -101,9 +101,10 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 70px;
+    gap: 90px;
     text-align: left;
-    font-size: 20px;
+    font-size: 26px;
+    color: #030303;
     
 }
 
@@ -117,4 +118,8 @@ button:hover{
 
 #coming{
     color: rgb(135, 145, 153)
+}
+
+.key{
+    font-size: 60px;
 }
